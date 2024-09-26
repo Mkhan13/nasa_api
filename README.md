@@ -7,7 +7,7 @@ A [NASA API key](https://api.nasa.gov/)
 
 ## Setup
 1. Clone the repository  
-   ```git clone nasa_api```  
+   ```git clone https://github.com/Mkhan13/nasa_api.git```  
 2. Install required libraries
    
 3. Set up NASA API Key
